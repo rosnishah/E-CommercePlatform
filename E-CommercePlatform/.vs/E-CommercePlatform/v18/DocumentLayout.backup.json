@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\",
+  "WorkspaceRootPath": "C:\\Users\\rosni\\OneDrive\\Desktop\\My Projects\\E-CommercePlatform\\E-CommercePlatform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|c:\\users\\rosni\\source\\repos\\e-commerceplatform\\e-commerceplatform\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|c:\\users\\rosni\\onedrive\\desktop\\my projects\\e-commerceplatform\\e-commerceplatform\\e-commerceplatform\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\OneDrive\\Desktop\\My Projects\\E-CommercePlatform\\E-CommercePlatform\\e-commerceplatform\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Checkout.aspx",
-              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\rosni\\OneDrive\\Desktop\\My Projects\\E-CommercePlatform\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx",
               "RelativeDocumentMoniker": "E-CommercePlatform\\Checkout.aspx",
-              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx",
+              "ToolTip": "C:\\Users\\rosni\\OneDrive\\Desktop\\My Projects\\E-CommercePlatform\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx",
               "RelativeToolTip": "E-CommercePlatform\\Checkout.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -34,16 +34,21 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Checkout.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\OneDrive\\Desktop\\My Projects\\E-CommercePlatform\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx.cs",
               "RelativeDocumentMoniker": "E-CommercePlatform\\Checkout.aspx.cs",
-              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\rosni\\OneDrive\\Desktop\\My Projects\\E-CommercePlatform\\E-CommercePlatform\\E-CommercePlatform\\Checkout.aspx.cs",
               "RelativeToolTip": "E-CommercePlatform\\Checkout.aspx.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T16:07:00.531Z"
+              "WhenOpened": "2025-11-29T16:07:00.531Z",
+              "EditorCaption": ""
             }
           ]
         }
