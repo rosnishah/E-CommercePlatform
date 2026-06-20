@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|c:\\users\\rosni\\source\\repos\\e-commerceplatform\\e-commerceplatform\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\styles\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\contact.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\products.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\e-commerceplatform\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1198DE0-911D-4B8E-82BE-131F89DF0F0E}|E-CommercePlatform\\E-CommercePlatform.csproj|solutionrelative:e-commerceplatform\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Styles\\style.css",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Styles\\style.css",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Styles\\style.css",
+              "RelativeToolTip": "E-CommercePlatform\\Styles\\style.css",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAwEwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-06T14:45:41.575Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Site.Master",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Site.Master",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Site.Master",
+              "RelativeToolTip": "E-CommercePlatform\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T14:44:17.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Register.aspx.cs",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Register.aspx.cs",
+              "RelativeToolTip": "E-CommercePlatform\\Register.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T16:20:05.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Register.aspx",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Register.aspx",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Register.aspx",
+              "RelativeToolTip": "E-CommercePlatform\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T16:19:00.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Login.aspx.cs",
+              "RelativeToolTip": "E-CommercePlatform\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:59:16.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Login.aspx",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Login.aspx",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Login.aspx",
+              "RelativeToolTip": "E-CommercePlatform\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T15:59:07.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Contact.aspx.cs",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Contact.aspx.cs",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Contact.aspx.cs",
+              "RelativeToolTip": "E-CommercePlatform\\Contact.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T15:51:25.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Contact.aspx",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Contact.aspx",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Contact.aspx",
+              "RelativeToolTip": "E-CommercePlatform\\Contact.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T15:37:15.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Cart.aspx.cs",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Cart.aspx.cs",
+              "RelativeToolTip": "E-CommercePlatform\\Cart.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:58:14.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Cart.aspx",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Cart.aspx",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Cart.aspx",
+              "RelativeToolTip": "E-CommercePlatform\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T14:57:50.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Products.aspx.cs",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Products.aspx.cs",
+              "RelativeToolTip": "E-CommercePlatform\\Products.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:55:07.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.aspx",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Products.aspx",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Products.aspx",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Products.aspx",
+              "RelativeToolTip": "E-CommercePlatform\\Products.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T14:54:54.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Site.Master.cs",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Site.Master.cs",
+              "RelativeToolTip": "E-CommercePlatform\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:51:43.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Home.aspx.cs",
+              "RelativeToolTip": "E-CommercePlatform\\Home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:48:04.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Home.aspx",
+              "RelativeDocumentMoniker": "E-CommercePlatform\\Home.aspx",
+              "ToolTip": "C:\\Users\\rosni\\source\\repos\\E-CommercePlatform\\E-CommercePlatform\\Home.aspx",
+              "RelativeToolTip": "E-CommercePlatform\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-06T14:47:28.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

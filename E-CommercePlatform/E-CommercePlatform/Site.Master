@@ -1,0 +1,119 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Site.master.cs" Inherits="E_CommercePlatform.Site" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>E-Commerce Platform</title>
+
+    <style>
+        body { 
+            margin: 0; 
+            font-family: Poppins, sans-serif; 
+            background: #f3f4f6; 
+        }
+
+        .navbar { 
+            background: linear-gradient(135deg,#6a11cb,#2575fc); 
+            padding: 15px 40px;
+            color: white; 
+            display: flex; 
+            justify-content: space-between; 
+            align-items: center;
+        }
+
+        .logo {
+            margin: 0;
+            font-size: 26px;
+            font-weight: 600;
+        }
+
+        .menu { 
+            list-style: none; 
+            display: flex; 
+            gap: 25px; 
+            margin: 0; 
+            padding: 0; 
+            align-items: center;
+        }
+
+        .menu li {
+            display: inline-block;
+        }
+
+        .menu a { 
+            color: white; 
+            text-decoration: none; 
+            font-size: 16px;
+            transition: 0.2s ease;
+        }
+
+        .menu a:hover {
+            color: #ffe66d;
+        }
+
+        .content { 
+            padding: 40px 60px; 
+            min-height: 70vh; 
+        }
+
+        .footer { 
+            background: #111827; 
+            text-align: center; 
+            padding: 20px; 
+            color: #eee; 
+            margin-top: 40px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <form id="form1" runat="server">
+
+        <!-- NAVIGATION -->
+        <div class="navbar">
+            <h1 class="logo">
+                <a href="Home.aspx" style="text-decoration:none;color:white;">🛍️ ShopEase</a>
+            </h1>
+
+            <ul class="menu">
+
+                <li><a href="Home.aspx">Home</a></li>
+                <li><a href="Products.aspx">Products</a></li>
+
+                <!-- CART -->
+                <asp:PlaceHolder ID="phCart" runat="server" Visible="false">
+                    <li><a href="Cart.aspx">Cart</a></li>
+                </asp:PlaceHolder>
+
+                <li><a href="Contact.aspx">Contact</a></li>
+
+                <!-- LOGIN -->
+                <asp:PlaceHolder ID="phLogin" runat="server" Visible="true">
+                    <li><a href="Login.aspx">Login</a></li>
+                </asp:PlaceHolder>
+
+                <!-- USER -->
+                <asp:PlaceHolder ID="phUser" runat="server" Visible="false">
+                    <li>Hi <asp:Label ID="lblUser" runat="server" /> 👋</li>
+                    <li><a href="Logout.aspx">Logout</a></li>
+                </asp:PlaceHolder>
+
+            </ul>
+        </div>
+
+        <!-- MAIN CONTENT -->
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+
+        <!-- FOOTER -->
+        <div class="footer">
+            © 2025 ShopEase
+        </div>
+
+    </form>
+</body>
+</html>
